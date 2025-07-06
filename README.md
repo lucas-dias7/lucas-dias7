@@ -31,3 +31,36 @@ Evoluir no mercado de T.I, continuar estudando e me desenvolvendo para me consol
 - 📁 Git & GitHub
 - 📡 Redes e Linux
 - ☁️ Introdução ao mundo DevOps e Cloud
+
+---
+
+## 🧰 Minhas ferramentas de trabalho
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚧 Projetos em desenvolvimento
+
+🚀 *Em breve aqui você verá projetos com foco em JavaScript, automações e infraestrutura!*
+
+---
+
+## 📬 Contato
+
+Você pode falar comigo por aqui:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario-aqui)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucas-dias7&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+          

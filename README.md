@@ -63,4 +63,5 @@ Você pode falar comigo por aqui:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-dias7&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-          
+
+ ![Visualizações de Perfil](https://komarev.com/ghpvc/?username=lucas-dias7&color=blue)

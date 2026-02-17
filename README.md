@@ -7,7 +7,7 @@
 
 ## 😎 Quem sou eu?
 
-Meu nome é Lucas, tenho 22 anos e estou morando em São Paulo.  
+Meu nome é Lucas, tenho 23 anos e estou morando em São Paulo.  
 Atualmente estou trabalhando e estudando **Lógica de Programação**, trilhando meu caminho para entrar no mundo da T.I.  
 Pratico musculação, gosto de jogar video-games e praticar esportes também.  
 Acredito que o estudo é a chave para varias portas, e que se alguem quer ser referência em algo tem que se manter atualizado a todo momento.
@@ -16,10 +16,8 @@ Acredito que o estudo é a chave para varias portas, e que se alguem quer ser re
 
 ## 🎯 Meus interesses:
 
-Evoluir no mercado de T.I, continuar estudando e me desenvolvendo para me consolidar nessas áreas que me identifiquei:
+Evoluir no mercado de T.I, continuar estudando e me desenvolvendo para me consolidar na área que me identifiquei:
 
-- 📦 **DevOps**
-- 🔐 **Cybersecurity**
 - 🌐 **FullStack Web Development**
 
 ---
@@ -29,16 +27,12 @@ Evoluir no mercado de T.I, continuar estudando e me desenvolvendo para me consol
 - 💻 Front-end e Back-end
 - 🛠️ Javascript (Fundamentos e projetos práticos)
 - 📁 Git & GitHub
-- 📡 Redes e Linux
-- ☁️ Introdução ao mundo DevOps e Cloud
 
 ---
 
 ## 🧰 Minhas ferramentas de trabalho
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)

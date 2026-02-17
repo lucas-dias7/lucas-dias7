@@ -8,7 +8,7 @@
 ## 😎 Quem sou eu?
 
 Meu nome é Lucas, tenho 23 anos e estou morando em São Paulo.  
-Atualmente estou trabalhando e estudando **Lógica de Programação**, trilhando meu caminho para entrar no mundo da T.I.  
+Atualmente estou estudando **Lógica de Programação**, trilhando meu caminho para entrar no mundo da T.I.  
 Pratico musculação, gosto de jogar video-games e praticar esportes também.  
 Acredito que o estudo é a chave para varias portas, e que se alguem quer ser referência em algo tem que se manter atualizado a todo momento.
 
